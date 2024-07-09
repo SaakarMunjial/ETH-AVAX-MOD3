@@ -18,5 +18,6 @@ By following these steps and installing all necessary dependencies, you'll be ab
 NOTE- Only the contract owner can mint the tokens to any address.
 
 ## Video Walkthrough
+https://www.loom.com/share/5b44a891fc6c4eaf9d705a1ec331eee0
 
 
